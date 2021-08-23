@@ -7,7 +7,7 @@ To use the project you need to install some dependencies.
 * Electron: `npm i --save-dev electron`
 * Rimraf: `npm i rimraf`
 * Electron forge: `npm i electron-forge`
-* Electron propbuilt compile: `npm i electron-prebuilt-compile`
+* Electron prebuilt compile: `npm i electron-prebuilt-compile`
 
 #### Features
 
